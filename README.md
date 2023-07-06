@@ -1,3 +1,3 @@
-# P4Sentry
+# P4 Network Admin Interface 
 
-![P4Sentry](documentation/p4sentry-540p.gif)
+Interface for information about your p4 network
